@@ -16,5 +16,5 @@ This application should developed for Desktop Users.
 ### Project Update
 Till now we have completed the following stages.
 1. Software Requirement Specifications
-2. Prototyping
-And Remaining Stages are going on.
+2. Prototyping<br />
+Remaining Stages are going on.

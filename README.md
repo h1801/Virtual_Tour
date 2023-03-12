@@ -5,7 +5,10 @@
 ## Project Details
 ### Description: 
 We want to create a virtual tour of the Majuli river island, which should let the user experience the ecological, cultural and architectural heritage. There are 2 major components of the tour as listed below.
-#### 1.A beginning: 
+#### 1. A beginning: 
 Before start of tour of specific sites (temples and village). Should follow a script. Should contain multimedia (image, video, audio) to give a comprehensive idea on the location, important places, geography, ecology and daily life on the river island. Audio may include voice over and ambient audio.
-#### 2.Tour of Jangraimukh tribal (mishing) village: 
+#### 2. Tour of Jangraimukh tribal (mishing) village: 
 Audio-visual tour, multimedia enabled (wherever possible) with support for interactive navigation (World-In-Miniature technique for location awareness and teleportation for navigation). Should let the viewer experience major activities and daily life.
+
+### Hardware Specifications
+This application should developed for Desktop Users.

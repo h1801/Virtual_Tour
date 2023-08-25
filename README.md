@@ -14,7 +14,7 @@ Audio-visual tour, multimedia enabled (wherever possible) with support for inter
 This application should developed for Desktop Users.
 
 ### Project Update
-Till now we have completed the following stages.
+We have completed the following stages.
 1. Software Requirement Specifications
 2. Prototyping<br />
 3. Coding Design<br />

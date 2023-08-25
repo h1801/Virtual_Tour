@@ -17,6 +17,5 @@ This application should developed for Desktop Users.
 We have completed the following stages.
 1. Software Requirement Specifications
 2. Prototyping<br />
-3. Coding Design<br />
-4. Coding And Implementation<br />
-5. Testing<br/>
+3. Coding Design And Implementation<br />
+4. Testing<br/>
